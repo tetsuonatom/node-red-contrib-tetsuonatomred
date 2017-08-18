@@ -1,0 +1,28 @@
+{
+  "name": "node-red-contrib-tetsuonatomred",
+  "version": "1.0.0",
+  "description": "Node-RED sample application",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "pikihikibiki-node": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsuonatom/node-red-contrib-tetsuonatomred.git"
+  },
+  "keywords": [
+    "node-red",
+    "sample"
+  ],
+  "author": "tetsuonatom",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tetsuonatom/node-red-contrib-tetsuonatomred/issues"
+  },
+  "homepage": "https://github.com/tetsuonatom/node-red-contrib-tetsuonatomred#readme"
+}
